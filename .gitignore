@@ -1,0 +1,23 @@
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Keep an example configuration if you create one
+!.env.example
+
+# Node.js
+node_modules/
+web/node_modules/
+web/dist/
+
+# .NET build files
+api/bin/
+api/obj/
+
+# IDE files
+.vs/
+.vscode/
+
+# Git
+.git/
